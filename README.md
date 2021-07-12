@@ -46,4 +46,4 @@
 <img src="https://img.shields.io/badge/pronouns-he%2Fhim-orange" alt="49122-pronouns" />
 <img src="https://img.shields.io/badge/licence-MIT-green" alt="49122-licence" />
 </p>
-{"mode":"full","isActive":false}
+
