@@ -2,7 +2,8 @@
 
 <p align='center'>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-alberto-delgadillo-alonso-7b58501aa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/p/JorgeADelgadilloAlonso/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://platzi.com/p/JorgeADelgadilloAlonso/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" />  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="jorgealbertodelgadilloalonso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
