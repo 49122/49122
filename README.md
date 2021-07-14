@@ -8,7 +8,7 @@
 </p>
 
 
-<p>Backend developer, specialized in Python. Focused in create high-quality software. Self-taught, I love learning about tech and teaching others whenever I can.</p>
+<p>Backend developer, specialized in Python. Focused in creating high-quality software. Self-taught, I love learning about tech and teaching others whenever I can.</p>
 
 ---
 
