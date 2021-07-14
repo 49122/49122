@@ -1,4 +1,4 @@
-<img src="https://imgur.com/OzvTVBN"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <h1 align="center">Hey, nice to have you here</h1>
 
 <p align='center'>
