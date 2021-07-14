@@ -53,18 +53,6 @@
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
 
 
----
-
-<h3>Proyects</h3>
-
-<h4>Ogma app</h3>
-
-
-<p>
-Ogma app is a web application that helps developers practice their theoretical and practical knowledge across a diverse selection of technologies with the objective of helping them in their future technical interviews. <a href="https://ogmapp.xyz/">Check it out! </a> 
-</p>
-
-
 
 ---
 
@@ -89,3 +77,26 @@ Ogma app is a web application that helps developers practice their theoretical a
 <img src="https://img.shields.io/badge/licence-MIT-green" alt="49122-licence" />
 </p>
 
+---
+
+<h3>Proyects</h3>
+
+<h3>Ogma app</h3>
+
+
+<p>
+Ogma app is a web application that helps developers practice their theoretical and practical knowledge across a diverse selection of technologies with the objective of helping them in their future technical interviews. <a href="https://ogmapp.xyz/">Check it out! </a> 
+</p>
+
+
+<h3>Open Contracts Mx</h3>
+
+
+<p>
+Open Contracts Mx is a web application that helps researchers and journalists to get easy access to available contracts made by different governmental organizations in Mexico. <a href="https://opencontractmx.netlify.app/">Check it out! </a> 
+</p>
+
+
+<p align="center">
+  <h3> For more of my projects you can look at my pinned repositories 👇</h3>
+</p>
