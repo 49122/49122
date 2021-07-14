@@ -57,6 +57,13 @@
 
 <h3>Proyects</h3>
 
+<h4>Ogma app</h3>
+
+
+<p>
+Ogma app is a web application that helps developers practice their theoretical and practical knowledge across a diverse selection of technologies with the objective of helping them in their future technical interviews. <a href="https://ogmapp.xyz/">Check it out! </a> 
+</p>
+
 
 
 ---
