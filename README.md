@@ -1,4 +1,4 @@
-<imag src="https://imgur.com/OzvTVBN" />
+<img src="https://imgur.com/OzvTVBN" />
 <h1 align="center">Hey, nice to have you here</h1>
 
 <p align='center'>
