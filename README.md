@@ -1,4 +1,4 @@
-<img src="/images/banner.jpg" />
+<img src="/images/banner_github.jpg" />
 <h1 align="center">Hey, nice to have you here</h1>
 
 <p align='center'>
